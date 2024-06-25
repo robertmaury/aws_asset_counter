@@ -12,4 +12,4 @@ To deactivate the virtual environment and return to your global Python environme
 
 To install dependencies in your venv run:
 
-"python3 -m pip install boto3 pandas botocore.errorfactory"
+"python3 -m pip install boto3 pandas"
